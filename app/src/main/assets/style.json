@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "condition_name": "one",
+      "condition_size": "18",
+      "condition_width": "128",
+      "condition_height": "72",
+      "condition_color": "-16776961",
+      "condition_text": "Nice one!"
+    },
+    {
+      "condition_name": "two",
+      "condition_size": "26",
+      "condition_width": "256",
+      "condition_height": "92",
+      "condition_color": "10275941",
+      "condition_text": "Almost there :)"
+    }
+  ]
+}
